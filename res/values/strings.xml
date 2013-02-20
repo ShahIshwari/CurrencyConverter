@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CurrencyConverter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+     <string name="country_prompt">Choose a country</string>
+ <string-array name="country_arrays">
+        
+       <item>United Arab Emirates Dirham (AED)</item>
+			<item>Netherlands Antillean Guilder (ANG)</item>
+			<item>Argentine Peso (ARS)</item>
+			<item>Australian Dollar (A$)</item>
+			<item>Bangladeshi Taka (BDT)</item>
+			<item>Bulgarian Lev (BGN)</item>
+			<item>Bahraini Dinar (BHD)</item>
+			<item>Brunei Dollar (BND)</item>
+			<item>Bolivian Boliviano (BOB)</item>
+			<item>Brazilian Real (R$)</item>
+			<item>Botswanan Pula (BWP)</item>
+			<item>Canadian Dollar (CA$)</item>
+			<item>Swiss Franc (CHF)</item>
+			<item>Chilean Peso (CLP)</item>
+			<item>Chinese Yuan (CN¥)</item>
+			<item>Colombian Peso (COP)</item>
+			<item>Costa Rican Colón (CRC)</item>
+			<item>Czech Republic Koruna (CZK)</item>
+			<item>Danish Krone (DKK)</item>
+			<item>Dominican Peso (DOP)</item>
+			<item>Algerian Dinar (DZD)</item>
+			<item>Estonian Kroon (EEK)</item>
+			<item>Egyptian Pound (EGP)</item>
+			<item>Euro (€)</item>
+			<item>Fijian Dollar (FJD)</item>
+			<item>British Pound Sterling (£)</item>
+			<item>Hong Kong Dollar (HK$)</item>
+			<item>Honduran Lempira (HNL)</item>
+			<item>Croatian Kuna (HRK)</item>
+			<item>Hungarian Forint (HUF)</item>
+			<item>Indonesian Rupiah (IDR)</item>
+			<item>Israeli New Sheqel (₪)</item>
+			<item>Indian Rupee (Rs.)</item>
+			<item>Jamaican Dollar (JMD)</item>
+			<item>Jordanian Dinar (JOD)</item>
+			<item>Japanese Yen (¥)</item>
+			<item>Kenyan Shilling (KES)</item>
+			<item>South Korean Won (₩)</item>
+			<item>Kuwaiti Dinar (KWD)</item>
+			<item>Cayman Islands Dollar (KYD)</item>
+			<item>Kazakhstani Tenge (KZT)</item>
+			<item>Lebanese Pound (LBP)</item>
+			<item>Sri Lankan Rupee (LKR)</item>
+			<item>Lithuanian Litas (LTL)</item>
+			<item>Latvian Lats (LVL)</item>
+			<item>Moroccan Dirham (MAD)</item>
+			<item>Moldovan Leu (MDL)</item>
+			<item>Macedonian Denar (MKD)</item>
+			<item>Mauritian Rupee (MUR)</item>
+			<item>Maldivian Rufiyaa (MVR)</item>
+			<item>Mexican Peso (MX$)</item>
+			<item>Malaysian Ringgit (MYR)</item>
+			<item>Namibian Dollar (NAD)</item>
+			<item>Nigerian Naira (NGN)</item>
+			<item>Nicaraguan Córdoba (NIO)</item>
+			<item>Norwegian Krone (NOK)</item>
+			<item>Nepalese Rupee (NPR)</item>
+			<item>New Zealand Dollar (NZ$)</item>
+			<item>Omani Rial (OMR)</item>
+			<item>Peruvian Nuevo Sol (PEN)</item>
+			<item>Papua New Guinean Kina (PGK)</item>
+			<item>Philippine Peso (Php)</item>
+			<item>Pakistani Rupee (PKR)</item>
+			<item>Polish Zloty (PLN)</item>
+			<item>Paraguayan Guarani (PYG)</item>
+			<item>Qatari Rial (QAR)</item>
+			<item>Romanian Leu (RON)</item>
+			<item>Serbian Dinar (RSD)</item>
+			<item>Russian Ruble (RUB)</item>
+			<item>Saudi Riyal (SAR)</item>
+			<item>Seychellois Rupee (SCR)</item>
+			<item>Swedish Krona (SEK)</item>
+			<item>Singapore Dollar (SGD)</item>
+			<item>Slovak Koruna (SKK)</item>
+			<item>Sierra Leonean Leone (SLL)</item>
+			<item>Salvadoran Colón (SVC)</item>
+			<item>Thai Baht (฿)</item>
+			<item>Tunisian Dinar (TND)</item>
+			<item>Turkish Lira (TRY)</item>
+			<item>Trinidad and Tobago Dollar (TTD)</item>
+			<item>New Taiwan Dollar (NT$)</item>
+			<item>Tanzanian Shilling (TZS)</item>
+			<item>Ukrainian Hryvnia (UAH)</item>
+			<item>Ugandan Shilling (UGX)</item>
+			<item>US Dollar ($)</item>
+			<item>Uruguayan Peso (UYU)</item>
+			<item>Uzbekistan Som (UZS)</item>
+			<item>Venezuelan Bolívar (VEF)</item>
+			<item>Vietnamese Dong (₫)</item>
+			<item>CFA Franc BCEAO (CFA)</item>
+			<item>Yemeni Rial (YER)</item>
+			<item>South African Rand (ZAR)</item>
+			<item>Zambian Kwacha (ZMK)</item>
+        
+        
+    </string-array>
+</resources>
